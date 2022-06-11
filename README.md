@@ -117,7 +117,7 @@
 22. Select "Limited experience" (bottom left)
 23. Enter Username and click "Next"
 24. Enter Password or skip with "Next"
-25. Set all privacy settingS to "No" and click "Accept"
+25. Set all privacy settings to "No" and click "Accept"
 26. Click "Skip"
 27. Click "Not now"
 
