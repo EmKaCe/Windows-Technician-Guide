@@ -64,7 +64,7 @@
 - Download the script and move it into the "Drivers" folder
 - Right-Click inside the "Drivers" folder
 - Select "New" and "Shortcut"
-- Enter the URL of the [App Installer](https://www.microsoft.com/store/productId/9NBLGGH4NNS1)
+- Enter the URL of the [App Installer](ms-windows-store://pdp/?ProductId=9NBLGGH4NNS1)
 - Click "Next"
 - Name the Shortcut "App Installer"
 - Click "Finish"
